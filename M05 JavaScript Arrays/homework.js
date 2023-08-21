@@ -281,8 +281,8 @@ function continueStatement(num) {
          nuevoArray.push(num);
       }
    }
-   return nuevoArray;
-
+   return nuevoArray; 
+}
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
